@@ -27,3 +27,6 @@ Multinomial Naive Bayes
 The model classifies SMS messages as:
 - Spam
 - Legitimate
+- ## Demo Video
+
+[Watch Task 4 Demo Video](https://drive.google.com/file/d/1gpdOxKwy8gePKyMSz2H1agku-V3VbMjT/view?usp=sharing)
